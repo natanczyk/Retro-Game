@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>obrazki/dziwny.jpg</file>
+        <file>obrazki/niebo.jpg</file>
+        <file>obrazki/smutnydziwny.jpg</file>
+        <file>obrazki/gigachad.jpg</file>
+    </qresource>
+</RCC>
